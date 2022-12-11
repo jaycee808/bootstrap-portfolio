@@ -16,10 +16,20 @@ nav {
     font-family: "Playfair Display", serif;
     font-weight: bold;
     font-size: 1.4em;
-    margin-left: 20px;
-    margin-right: 20px
+
 }
 
+.profile-picture {
+        border-radius: 12px;
+        width: auto;
+}
+
+.about {
+    color: red;
+    display: grid;
+    grid-template-columns: 50% 50%;
+    align-items: center; 
+}
 p {
     font-family: "Fira Sans", sans-serif;
 }
