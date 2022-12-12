@@ -52,3 +52,9 @@ p {
     float: none; 
     margin-bottom: 10px;
 }
+
+button:hover {
+    transition: 0.4s ease-in-out;
+    box-shadow: 0 0 20px rgb(16, 64, 116);
+    cursor: pointer; 
+}
