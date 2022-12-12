@@ -21,6 +21,9 @@ nav {
 
 #hero {
     margin-bottom: 140px;
+    padding: 1rem;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .profile-picture {
